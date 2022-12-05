@@ -1,1 +1,1 @@
-file_name:python_project
+no_of_city:3
